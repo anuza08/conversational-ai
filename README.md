@@ -2,7 +2,9 @@
 
 A versatile chatbot interface supporting multiple LLM backends (Gemini, Claude) with seamless model switching. Built with Python, FastAPI, and Gradio.
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyNnRlMGJ6dW1rY3B2eWZ4Z2N0Y3VtYzN6bmRlZ2Z1Z2Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
+### Working Demo
+https://github.com/user-attachments/assets/945ba9ce-2c5c-499b-b193-7c96dd3ed489
+
 
 ## 🚀 Features
 
@@ -65,6 +67,8 @@ Access the UI at http://localhost:7860
 1. Use the dropdown in the web interface
 2. Select either "Gemini" or "Claude"
 3. Continue chatting - the model will change immediately
+
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhyNnRlMGJ6dW1rY3B2eWZ4Z2N0Y3VtYzN6bmRlZ2Z1Z2Z1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif)
 
 ### Via API
 ```
