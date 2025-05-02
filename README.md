@@ -53,10 +53,10 @@ Running the Application
 
 ```
 # Start FastAPI backend
-poetry run uvicorn app.main:app --reload
+uvicorn app.main:app --reload
 
 # In another terminal, start Gradio UI
-poetry run python frontend/gradio_ui.py
+python frontend/gradio_ui.py
 ```
 
 Access the UI at http://localhost:7860
